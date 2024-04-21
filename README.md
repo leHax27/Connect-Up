@@ -1,5 +1,5 @@
 # Connect-Up
-Social media app
+Social Media Web-App
 
 This is a README file for a Full Stack MERN (MongoDB, Express.js, React.js, Node.js) project that implements a social media platform. The project aims to provide users with a platform to connect, share content, and interact with each other.
 The project follows a typical MERN project structure. Here is an overview of the main folders and files:
